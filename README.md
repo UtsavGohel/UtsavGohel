@@ -4,6 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UtsavGohel&label=Profile%20views&color=0e75b6&style=flat" alt="UtsavGohel" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UtsavGohel" alt="UtsavGohel" /></a> </p>
 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Gohelutsav4?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGohelutsav4&screen_name=Gohelutsav4)
+### Connect with me:
+
+[<img align="left" alt="Gohelutsav4 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="utsav-gohel-a0141a148 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+
+
+
 - 🔭 I’m currently working on ...Node.js
 - 🌱 I’m currently learning ...Full-Stack Development
 - 👯 I’m looking to collaborate on ...React.js
@@ -26,11 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UtsavGohel&show_icons=true&locale=en" alt="UtsavGohel" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavGohel&" alt="UtsavGohel" /></p>
-
-
-
-
-
-
-
-
