@@ -21,8 +21,6 @@
   
 <a href="https://www.linkedin.com/in/utsav-gohel-a0141a148/" target="_blank"><img align="left" alt="utsavgohel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://www.instagram.com/the_utsv__/" target="_blank"><img align="left" alt="utsavgohel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-  <a href="https://projectofnode.herokuapp.com" target="_blank"> <img align="left" alt="https://projectofnode.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
