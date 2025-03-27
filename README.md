@@ -37,19 +37,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=UtsavGohel&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavGohel&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UtsavGohel&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
----
 
 ### 🌍 Connect with Me:
 <p align="left">
@@ -65,8 +52,6 @@
 </p>
 
 ---
-
-## 🚀 Latest Projects  
 
 ### 🔥 Featured Projects  
 
