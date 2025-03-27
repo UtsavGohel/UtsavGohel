@@ -53,10 +53,10 @@
 
 ### 🌍 Connect with Me:
 <p align="left">
-  <a href="https://twitter.com/Gohelutsav4" target="_blank">
+  <a href="https://x.com/utsav_gohel_8" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/utsav-gohel-a0141a148/" target="_blank">
+  <a href="https://www.linkedin.com/in/utsav-gohel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/the_utsv__/" target="_blank">
@@ -66,9 +66,17 @@
 
 ---
 
-### 🚀 Latest Projects:
-🔹 **[DevSwipe](https://github.com/UtsavGohel/DevSwipe)** – A Tinder-like app built with React Vite, NestJS & MongoDB.  
-🔹 **[Genius](https://github.com/UtsavGohel/Genius)** – AI-powered source code generator similar to bolt.new.  
+## 🚀 Latest Projects  
+
+### 🔥 Featured Projects  
+
+🔹 **DevSwipe** – A Tinder-like app built with React Vite, NestJS & MongoDB  
+   - 🖥️ **Frontend**: [GitHub Repo](https://github.com/UtsavGohel/dev-swipe-frontend/)  
+   - ⚙️ **Backend**: [GitHub Repo](https://github.com/UtsavGohel/dev-swipe-backend/)  
+
+🔹 **Textify** – An **AI-powered Full-Stack App** transforming text prompts into complete projects  
+   - 🖥️ **Full-Stack**: [GitHub Repo](https://github.com/UtsavGohel/textify/)  
+   - 🚀 Built with **Next.js, MongoDB & AI integration**  
 
 ---
 
