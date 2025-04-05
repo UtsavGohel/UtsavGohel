@@ -57,11 +57,12 @@
 
 🔹 **DevSwipe** – A Tinder-like app built with React Vite, NestJS & MongoDB  
    - 🖥️ **Frontend**: [GitHub Repo](https://github.com/UtsavGohel/dev-swipe-frontend/)  
-   - ⚙️ **Backend**: [GitHub Repo](https://github.com/UtsavGohel/dev-swipe-backend/)  
+   - ⚙️ **Backend**: [GitHub Repo](https://github.com/UtsavGohel/dev-swipe-backend/)
+   - 🌐 **Live Demo** : https://dev-swipe.vercel.app
 
-🔹 **Textify** – An **AI-powered Full-Stack App** transforming text prompts into complete projects  
-   - 🖥️ **Full-Stack**: [GitHub Repo](https://github.com/UtsavGohel/textify/)  
-   - 🚀 Built with **Next.js, MongoDB & AI integration**  
+🔹 **Textify** – An **AI-powered Full-Stack App** transforming text prompts into stunning AI-generated images.  
+   - 🖥️ **Full-Stack**: [GitHub Repo](https://github.com/UtsavGohel/textify/)
+   - 🌐 **Live Demo** : https://textify-art.vercel.app
 
 ---
 
