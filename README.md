@@ -13,7 +13,7 @@
 - 💡 Love solving **real-world problems** & contributing to **open-source**
 - 📫 Reach me at: **utsavgohel2002@gmail.com**
 - ⚡ Fun Fact: **I debug for fun! 🐞**
-- 📄 You can check out my resume here: [View Resume](https://drive.google.com/file/d/1aI4DqMUaBBFO9UsZsrvVMu6QvWqt-5fH/view?usp=drive_link)
+- 📄 You can check out my resume here: [View Resume](https://drive.google.com/file/d/1OSF3s3xXmIfmn405g6hrDFdhaiff3Ogp/view?usp=drive_link)
 
 ---
 
