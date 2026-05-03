@@ -1,71 +1,117 @@
-<h1 align="center">Hi 👋, I'm Utsav Gohel</h1>
-<h3 align="center">🚀 Full-Stack Developer | Open-Source Contributor | Problem Solver</h3>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              UTSAV GOHEL — GitHub Profile README          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UtsavGohel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/UtsavGohel?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1000&color=00FFE5&center=true&vCenter=true&repeat=true&width=700&lines=UTSAV_GOHEL;FULL-STACK+DEVELOPER;NODE.JS+%26+NEXT.JS+BUILDER;OPEN-SOURCE+CONTRIBUTOR)](https://git.io/typing-svg)
 
-### 🚀 About Me:
-- 🔭 Currently working on **Node.js & Next.js**
-- 💡 Love solving **real-world problems** & contributing to **open-source**
-- 📫 Reach me at: **utsavgohel2002@gmail.com**
-- ⚡ Fun Fact: **I debug for fun! 🐞**
-- 📄 You can check out my resume here: [View Resume](https://drive.google.com/file/d/1OSF3s3xXmIfmn405g6hrDFdhaiff3Ogp/view?usp=drive_link)
+<br/>
+<img src="https://komarev.com/ghpvc/?username=UtsavGohel&label=PROFILE+VIEWS&style=for-the-badge&labelColor=161b22" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO%20COLLABORATIONS-161b22?style=for-the-badge&labelColor=161b22" alt="Open to Collaborations" />
+&nbsp;
+<img src="https://img.shields.io/badge/LETS%20BUILD%20SOMETHING-161b22?style=for-the-badge&labelColor=161b22" alt="LETS BUILD SOMETHING" />
 
----
+<br/>
 
-### 🛠️ Tech Stack:
-#### 💻 Languages & Frameworks:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-#### 🗄️ Databases & Cloud:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-#### 🛠️ DevOps & Tools:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="http://utsavgohel.torktoo.com/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-utsavgohel.torktoo.com-0a0a0f?style=for-the-badge&logo=firefox&logoColor=00ffe5&labelColor=0a0a0f" />
+</a>
 
 
-### 🌍 Connect with Me:
-<p align="left">
-  <a href="https://x.com/utsav_gohel_8" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/utsav-gohel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/the_utsv__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 🔥 Featured Projects  
+## `ABOUT_ME`
 
-🔹 **DevSwipe** – A Tinder-like app built with React Vite, NestJS & MongoDB  
-   - 🖥️ **Frontend**: [GitHub Repo](https://github.com/UtsavGohel/dev-swipe-frontend/)  
-   - ⚙️ **Backend**: [GitHub Repo](https://github.com/UtsavGohel/dev-swipe-backend/)
-   - 🌐 **Live Demo** : https://devswipe.torktoo.com/
-
-🔹 **Textify** – An **AI-powered Full-Stack App** transforming text prompts into stunning AI-generated images.  
-   - 🖥️ **Full-Stack**: [GitHub Repo](https://github.com/UtsavGohel/textify/)
-   - 🌐 **Live Demo** : https://textify.torktoo.com/
+```ts
+const utsav: Developer = {
+  name:       "Utsav Gohel",
+  role:       "Full-Stack Developer",
+  email:      "utsavgohel2002@gmail.com",
+  focus:      ["Node.js", "Next.js", "AWS", "AI", "Open-Source"],
+  currently:  "Building real-world products at warp speed",
+  funFact:    "I debug for fun 🐞 — yes, really.",
+  resume:     "https://drive.google.com/file/d/1OSF3s3xXmIfmn405g6hrDFdhaiff3Ogp/view",
+};
+```
 
 ---
 
-💙 _"Passionate about building, learning, and growing every day!"_  
+## `STATS`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=UtsavGohel&theme=dark&hide_border=true&background=0a0a0f&stroke=00ffe5&ring=ff003c&fire=ff6b35&currStreakLabel=00ffe5&sideLabels=a0b0cc&dates=5a6a8a" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtsavGohel&theme=midnight_purple" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## ` TECH_STACK`
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,mongodb,mysql,postgres,aws,docker,git,github,postman&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+## ` FEATURED_PROJECTS`
+
+<div align="center">
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **⚡DevSwipe** | Tinder-like developer matchmaking app with real-time interactions | `React Vite` `NestJS` `MongoDB` | [🌐 URL](https://devswipe.torktoo.com/)<br>💻 [FE](https://github.com/UtsavGohel/dev-swipe-frontend/) · [BE](https://github.com/UtsavGohel/dev-swipe-backend/) |
+| **🤖 Textify** | AI-powered full-stack app — transforms text prompts into stunning AI-generated images | `Full-Stack` `AI` | [🌐 URL](https://textify.torktoo.com/)<br>[💻 Code](https://github.com/UtsavGohel/textify/) |
+
+</div>
+
+---
+
+## ` CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UtsavGohel/UtsavGohel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UtsavGohel/UtsavGohel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/UtsavGohel/UtsavGohel/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## ` CONNECT`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0f?style=for-the-badge&logo=firefox&logoColor=00ffe5)](http://utsavgohel.torktoo.com/)
+[![Email](https://img.shields.io/badge/EMAIL-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ff003c)](mailto:utsavgohel2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00ffe5)](https://www.linkedin.com/in/utsav-gohel/)
+[![Twitter](https://img.shields.io/badge/TWITTER-0a0a0f?style=for-the-badge&logo=twitter&logoColor=00ffe5)](https://x.com/utsav_gohel_8)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0a0a0f?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/the_utsv__/)
+[![Resume](https://img.shields.io/badge/RESUME-0a0a0f?style=for-the-badge&logo=googledrive&logoColor=00ffe5)](https://drive.google.com/file/d/1OSF3s3xXmIfmn405g6hrDFdhaiff3Ogp/view?usp=drive_link)
+
+<br/>
+
+```
+// SHIP IT. BREAK IT. FIX IT. REPEAT.
+```
+
 ⭐ **Star this repo if you like my profile!** ⭐
+
+</div>
