@@ -74,8 +74,8 @@ const utsav: Developer = {
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **⚡DevSwipe** | Tinder-like developer matchmaking app with real-time interactions | `React Vite` `NestJS` `MongoDB` | [🌐 URL](https://devswipe.torktoo.com/)<br>💻 [FE](https://github.com/UtsavGohel/dev-swipe-frontend/) · [BE](https://github.com/UtsavGohel/dev-swipe-backend/) |
-| **🤖 Textify** | AI-powered full-stack app — transforms text prompts into stunning AI-generated images | `Full-Stack` `AI` | [🌐 URL](https://textify.torktoo.com/)<br>[💻 Code](https://github.com/UtsavGohel/textify/) |
+| **⚡DevSwipe** | Tinder-like developer matchmaking app with real-time interactions | `React Vite` `NestJS` `MongoDB` | [🌐 Live URL](https://devswipe.torktoo.com/)<br>
+| **🤖 Textify** | AI-powered full-stack app — transforms text prompts into stunning AI-generated images | `Full-Stack` `AI` | [🌐 Live URL](https://textify.torktoo.com/)<br>|
 
 </div>
 
