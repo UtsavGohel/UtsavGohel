@@ -74,8 +74,10 @@ const utsav: Developer = {
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **⚡DevSwipe** | Tinder-like developer matchmaking app with real-time interactions | `React Vite` `NestJS` `MongoDB` | [🌐 Live URL](https://devswipe.torktoo.com/)<br>
-| **🤖 Textify** | AI-powered full-stack app — transforms text prompts into stunning AI-generated images | `Full-Stack` `AI` | [🌐 Live URL](https://textify.torktoo.com/)<br>|
+| **🔊Voicylabs** | Turn any text into lifelike speech in seconds. Clone voices, choose from 20+ studio-quality voices, and generate audio. | `TypeScript` `Python` `TTS` | [🌐 Live URL](https://voicylabs.utsavgohel.com/)<br>
+| **⚡DevSwipe** | Tinder-like developer matchmaking app with real-time interactions | `React Vite` `NestJS` `MongoDB` | [🌐 Live URL](https://devswipe.utsavgohel.com/)<br>
+| **🤖 Textify** | AI-powered full-stack app — transforms text prompts into stunning AI-generated images | `Full-Stack` `AI` | [🌐 Live URL](https://textify.utsavgohel.com/)<br>|
+| **</> Toolify** | A collection of free, privacy-focused utility tools built. Access commonly needed tools in one place without tracking or ads. | `Full-Stack` `Next.js` | [🌐 Live URL](https://toolify.utsavgohel.com/)<br>|
 
 </div>
 
