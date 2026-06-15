@@ -34,7 +34,7 @@ const utsav: Developer = {
   focus:      ["Node.js", "Next.js", "AWS", "AI", "Open-Source"],
   currently:  "Building real-world products at warp speed",
   funFact:    "I debug for fun 🐞 — yes, really.",
-  resume:     "https://drive.google.com/file/d/1OSF3s3xXmIfmn405g6hrDFdhaiff3Ogp/view",
+  resume:     "https://drive.google.com/file/d/1oayfkRnGYmoKuQgCWTLQvSei08rtZgMR/view",
 };
 ```
 
