@@ -15,8 +15,8 @@
 
 <br/>
 
-<a href="http://utsavgohel.torktoo.com/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-utsavgohel.torktoo.com-0a0a0f?style=for-the-badge&logo=firefox&logoColor=00ffe5&labelColor=0a0a0f" />
+<a href="http://utsavgohel.com/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-utsavgohel.com-0a0a0f?style=for-the-badge&logo=firefox&logoColor=00ffe5&labelColor=0a0a0f" />
 </a>
 
 
@@ -101,7 +101,7 @@ const utsav: Developer = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0f?style=for-the-badge&logo=firefox&logoColor=00ffe5)](http://utsavgohel.torktoo.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0f?style=for-the-badge&logo=firefox&logoColor=00ffe5)](http://utsavgohel.com/)
 [![Email](https://img.shields.io/badge/EMAIL-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ff003c)](mailto:utsavgohel2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00ffe5)](https://www.linkedin.com/in/utsav-gohel/)
 [![Twitter](https://img.shields.io/badge/TWITTER-0a0a0f?style=for-the-badge&logo=twitter&logoColor=00ffe5)](https://x.com/utsav_gohel_8)
